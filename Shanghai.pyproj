@@ -28,6 +28,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="A\" />
+    <Folder Include="B\" />
+    <Folder Include="C\" />
+    <Folder Include="D\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="A\A_Vocabulary_of_the_Shanghai_Dialect-images-10.docx" />
@@ -36,6 +39,29 @@
     <Content Include="A\A_Vocabulary_of_the_Shanghai_Dialect-images-7.docx" />
     <Content Include="A\A_Vocabulary_of_the_Shanghai_Dialect-images-8.docx" />
     <Content Include="A\A_Vocabulary_of_the_Shanghai_Dialect-images-9.docx" />
+    <Content Include="B\A_Vocabulary_of_the_Shanghai_Dialect-images-12.docx" />
+    <Content Include="B\A_Vocabulary_of_the_Shanghai_Dialect-images-13.docx" />
+    <Content Include="B\A_Vocabulary_of_the_Shanghai_Dialect-images-14.docx" />
+    <Content Include="B\A_Vocabulary_of_the_Shanghai_Dialect-images-15.docx" />
+    <Content Include="B\A_Vocabulary_of_the_Shanghai_Dialect-images-16.docx" />
+    <Content Include="B\A_Vocabulary_of_the_Shanghai_Dialect-images-17B.docx" />
+    <Content Include="C\A_Vocabulary_of_the_Shanghai_Dialect-images-17C.docx" />
+    <Content Include="C\A_Vocabulary_of_the_Shanghai_Dialect-images-18.docx" />
+    <Content Include="C\A_Vocabulary_of_the_Shanghai_Dialect-images-19.docx" />
+    <Content Include="C\A_Vocabulary_of_the_Shanghai_Dialect-images-20.docx" />
+    <Content Include="C\A_Vocabulary_of_the_Shanghai_Dialect-images-21.docx" />
+    <Content Include="C\A_Vocabulary_of_the_Shanghai_Dialect-images-22.docx" />
+    <Content Include="C\A_Vocabulary_of_the_Shanghai_Dialect-images-23.docx" />
+    <Content Include="C\A_Vocabulary_of_the_Shanghai_Dialect-images-24.docx" />
+    <Content Include="D\A_Vocabulary_of_the_Shanghai_Dialect-images-24D.docx" />
+    <Content Include="D\A_Vocabulary_of_the_Shanghai_Dialect-images-25.docx" />
+    <Content Include="D\A_Vocabulary_of_the_Shanghai_Dialect-images-26.docx" />
+    <Content Include="D\A_Vocabulary_of_the_Shanghai_Dialect-images-27.docx" />
+    <Content Include="D\A_Vocabulary_of_the_Shanghai_Dialect-images-28.docx" />
+    <Content Include="D\A_Vocabulary_of_the_Shanghai_Dialect-images-29.docx" />
+    <Content Include="D\A_Vocabulary_of_the_Shanghai_Dialect-images-30.docx" />
+    <Content Include="D\A_Vocabulary_of_the_Shanghai_Dialect-images-31.docx" />
+    <Content Include="D\A_Vocabulary_of_the_Shanghai_Dialect-images-32.docx" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.Web.targets" />
   <!-- Specify pre- and post-build commands in the BeforeBuild and 
